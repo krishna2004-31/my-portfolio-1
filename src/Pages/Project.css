@@ -1,0 +1,90 @@
+.project-container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .project-title {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .project-list {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+  
+  .project-item {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .project-images {
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+  }
+  
+  .project-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .project-details {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .project-name {
+    font-size: 1.8rem;
+    margin: 0;
+    color: #222;
+  }
+  
+  .project-description {
+    font-size: 1.2rem;
+    color: #555;
+  }
+  
+  .project-link {
+    color: #007bff;
+    text-decoration: none;
+    font-size: 1.2rem;
+  }
+  
+  .project-link:hover {
+    text-decoration: underline;
+  }
+  
+  .local-instructions {
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 8px;
+    font-family: monospace;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+  
+  .local-instructions h3 {
+    margin: 0 0 10px 0;
+    font-size: 1.4rem;
+    color: #333;
+  }
+  .screenshot-note {
+    text-align: center;
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: 10px;
+    font-style: italic;
+  }
