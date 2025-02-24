@@ -77,7 +77,7 @@ const Project = () => {
       },
       {
       title: 'HTML/CSS/JavaScript/ReactJs AddToCart Page',
-         description: 'A simple  Calculator Page created using HTML,CSS,JavaScript and ReactJs . This project was created to practice HTML,CSS ,JavaScript And ReactJs skills. Slide too see more ScreenShots',
+         description: 'A simple  AddToCart Page created using HTML,CSS,JavaScript and ReactJs . This project was created to practice HTML,CSS ,JavaScript And ReactJs skills. Slide too see more ScreenShots',
         imageUrls: [shop,shop1,shop2],
         localInstructions: `1. Clone the repository from GitHub: https://github.com/krishna2004-31/shopping-react.git
 2. Navigate to the project directory: cd shopping-react
