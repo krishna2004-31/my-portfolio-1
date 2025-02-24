@@ -41,7 +41,7 @@ const Project = () => {
     },
     {
         title: 'HTML/CSS AniWood WebPage',
-         description: 'A simple  Wikipedia Page created using HTML and CSS with animation. This project was created to practice HTML and CSS skills. Slide too see more ScreenShots',
+         description: 'A simple  Anime Streming WebPage created using HTML and CSS with animation. This project was created to practice HTML and CSS skills. Slide too see more ScreenShots',
         imageUrls: [ani, ani1, ani2, ani5, ani4, ani3],
         localInstructions: `1. Clone the repository from GitHub: https://github.com/krishna2004-31/project-html-css
 2. Navigate to the project directory: cd projects-html-css/ani_wood
@@ -50,7 +50,7 @@ const Project = () => {
       },
       {
         title: 'HTML/CSS/BootStrap Code_Area WebPage',
-         description: 'A simple  Wikipedia Page created using HTML and CSS with animation. This project was created to practice HTML,CSS and BootStrap skills. Slide too see more ScreenShots',
+         description: 'A simple Tutorial WebPAge created using HTML,CSS and Bootsrap with animation. This project was created to practice HTML,CSS and BootStrap skills. Slide too see more ScreenShots',
         imageUrls: [boot, boot2, boot3, boot4, boot5, boot6],
         localInstructions: `1. Clone the repository from GitHub: https://github.com/krishna2004-31/projrct-bootstrap.git
 2. Navigate to the project directory: cd projrct-bootstrap/Code_area
@@ -70,19 +70,19 @@ const Project = () => {
         title: 'HTML/CSS/JavaScript Calculator Page',
          description: 'A simple  Calculator Page created using HTML,CSS and JavaScript . This project was created to practice HTML,CSS and JavaScript skills. Slide too see more ScreenShots',
         imageUrls: [col,col1,col2],
-        localInstructions: `1. Clone the repository from GitHub: https://github.com/krishna2004-31/Quizgamejs.git
-2. Navigate to the project directory: cd Quizgamejs
+        localInstructions: `1. Clone the repository from GitHub: https://github.com/krishna2004-31/calculater.git
+2. Navigate to the project directory: cd calculater
 3. Open wikipedia.html in your browser.`,
-        githubUrl: 'https://github.com/krishna2004-31/Quizgamejs.git',
+        githubUrl: 'https://github.com/krishna2004-31/calculater.git',
       },
       {
       title: 'HTML/CSS/JavaScript/ReactJs AddToCart Page',
          description: 'A simple  Calculator Page created using HTML,CSS,JavaScript and ReactJs . This project was created to practice HTML,CSS ,JavaScript And ReactJs skills. Slide too see more ScreenShots',
         imageUrls: [shop,shop1,shop2],
-        localInstructions: `1. Clone the repository from GitHub: https://github.com/krishna2004-31/Quizgamejs.git
-2. Navigate to the project directory: cd Quizgamejs
+        localInstructions: `1. Clone the repository from GitHub: https://github.com/krishna2004-31/shopping-react.git
+2. Navigate to the project directory: cd shopping-react
 3. Open wikipedia.html in your browser.`,
-        githubUrl: 'https://github.com/krishna2004-31/Quizgamejs.git',
+        githubUrl: 'https://github.com/krishna2004-31/shopping-react.git',
       },
   ];
 

@@ -47,7 +47,7 @@ const Profile = () => {
               I specialize in building responsive and accessible web applications using the MERN stack.
               My passion lies in creating seamless user experiences and efficient backend solutions.
             </p>
-          </div>
+          </div>  
           <div className="col-md-6">
             <img src={myImage} alt="My Image" className="my-image animated-image" />
           </div>
